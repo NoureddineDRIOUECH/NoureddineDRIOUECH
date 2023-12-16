@@ -20,5 +20,3 @@ Interested in software development and machine learning while studying computer 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NoureddineDRIOUECH&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
