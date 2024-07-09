@@ -111,7 +111,7 @@
 
 <h3 align="left">🔝 Top Contributed Repo</h3>
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=NoureddineDRIOUECH&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+  <img src="https://github-contributor-stats.vercel.app/api?username=NoureddineDRIOUECH&limit=3&theme=react&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
 </p>
 
 ---
