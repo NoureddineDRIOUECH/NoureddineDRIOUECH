@@ -1,141 +1,163 @@
-<!-- MasterHead Image -->
+<!-- MasterHead with animated banner -->
 <p align="center">
-  <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="MasterHead">
+  <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="MasterHead" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Noureddine DRIOUECH</h1>
-<h3 align="center">Passionate Developer in Software Development and New Technologies, seeking to gain practical experience while continuing to learn and improve.</h3>
+<h1 align="center">👋 Hi, I'm Noureddine DRIOUECH</h1>
+<h3 align="center">🚀 Passionate Full-Stack Developer | Tech Innovator | Continuous Learner</h3>
 
 <!-- Social Media Links -->
-
 <p align="center">
   <a href="https://linkedin.com/in/noureddinedriouech" target="_blank">
-   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Noureddine DRIOUECH" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/driouech.noureddine" target="_blank">
-   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Noureddine DRIOUECH" height="30" width="40" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn">
+  </a>&nbsp;&nbsp;
   <a href="https://instagram.com/noureddine.driouech" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Noureddine DRIOUECH" height="30" width="40" />
-  </a>
-
-</p>
-
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=NoureddineDRIOUECH&icon=7&color=1" alt="Profile Views" style="margin-top: 2px;">
-</p>
-<!-- Languages and Tools -->
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="center">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://imgs.search.brave.com/9bGOPA2NkyMOnLEDDvdnH017g_JuBMvoNoBELALq9yM/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi85LzlhL0xh/cmF2ZWwuc3ZnLzIy/MHB4LUxhcmF2ZWwu/c3ZnLnBuZw" alt="laravel" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram">
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/NoureddineDRIOUECH" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub">
   </a>
 </p>
 
-<!-- GitHub Stats -->
-<h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NoureddineDRIOUECH&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NoureddineDRIOUECH&theme=react&hide_border=true" alt="GitHub Streak">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoureddineDRIOUECH&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+  <img src="https://komarev.com/ghpvc/?username=NoureddineDRIOUECH&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
 
-<!-- Top Contributed Repo -->
-<h3 align="left">🔝 Top Contributed Repo:</h3>
+<!-- Skills Section with categorized icons -->
+## 🛠️ Technical Stack
+
+### 👨‍💻 Programming Languages
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=NoureddineDRIOUECH&limit=3&theme=react&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+  <img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="TypeScript">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="45" alt="Python">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="45" alt="Java">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="45" alt="PHP">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="45" alt="C">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="45" alt="Bash">
 </p>
 
-<!-- Profile Views -->
-
-
-<!-- Donation Section -->
-<h3 align="left">💰 You can help me by Donating</h3>
+### 🌐 Frontend Development
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=react" height="45" alt="React">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="NextJS">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="Tailwind">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="Bootstrap">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML5">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS3">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sass" height="45" alt="Sass">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=threejs" height="45" alt="ThreeJS">
+</p>
+
+### ⚙️ Backend & Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="NodeJS">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="45" alt="Express">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="45" alt="Laravel">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="45" alt="Spring">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="MongoDB">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="PostgreSQL">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="45" alt="Firebase">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="45" alt="Supabase">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="45" alt="Prisma">
+</p>
+
+### ☁️ DevOps & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker" height="45" alt="Docker">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="45" alt="AWS">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redhat" height="45" alt="Red Hat">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="45" alt="Linux">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="45" alt="Vite">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=maven" height="45" alt="Maven">
+</p>
+
+### 🎨 Design & Testing
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma" height="45" alt="Figma">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=selenium" height="45" alt="Selenium">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="45" alt="Postman">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sentry" height="45" alt="Sentry">
+</p>
+
+### ⚡ Other Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino" height="45" alt="Arduino">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=idea" height="45" alt="IntelliJ">
+</p>
+
+<!-- GitHub Stats Section -->
+## 📊 GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/NoureddineDRIOUECH">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoureddineDRIOUECH&theme=dark&layout=compact&langs_count=8" alt="Top Languages">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=NoureddineDRIOUECH&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/NoureddineDRIOUECH">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NoureddineDRIOUECH&theme=dark" alt="GitHub Streak">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/NoureddineDRIOUECH">
+    <img src="https://github-contributor-stats.vercel.app/api?username=NoureddineDRIOUECH&limit=3&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+  </a>
+</p>
+
+<!-- Contribution Snake -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img width="80%" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+<!-- Support Section -->
+## ☕ Support My Work
+
+<p align="center">
+  If you find my work valuable, consider supporting me:
+  <br><br>
   <a href="https://paypal.me/noureddinedr">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal">
+    <img src="https://skillicons.dev/icons?i=paypal" height="40" alt="PayPal">
   </a>
 </p>
