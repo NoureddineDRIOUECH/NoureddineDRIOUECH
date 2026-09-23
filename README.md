@@ -119,8 +119,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="45" alt="Linux">
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fedora" height="45" alt="Fedora">
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=redhat" height="45" alt="Red Hat">
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="45" alt="Vite">
