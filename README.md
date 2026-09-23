@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Noureddine DRIOUECH</h1>
-<h3 align="center">🚀 Passionate Full-Stack Developer | Tech Innovator | Continuous Learner</h3>
+<h3 align="center">🚀 AI Software Engineer & Full-Stack Architect | Continuous Learner</h3>
 
 <!-- Social Media Links -->
 <p align="center">
@@ -26,6 +26,18 @@
 <!-- Skills Section with categorized icons -->
 ## 🛠️ Technical Stack
 
+### 🧠 Artificial Intelligence & Machine Learning
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch" height="45" alt="PyTorch">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="45" alt="TensorFlow">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=scikitlearn" height="45" alt="Scikit-Learn">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=opencv" height="45" alt="OpenCV">
+</p>
+
+
 ### 👨‍💻 Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript">
@@ -36,14 +48,16 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="45" alt="Java">
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="45" alt="PHP">
+  <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="C++">
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="45" alt="C">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="45" alt="PHP">
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="45" alt="Bash">
 </p>
 
-### 🌐 Frontend Development
+### 🌐 Frontend & Mobile Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react" height="45" alt="React">
   <img width="12" />
@@ -51,7 +65,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="Tailwind">
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="Bootstrap">
+  <img src="https://skillicons.dev/icons?i=redux" height="45" alt="Redux">
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML5">
   <img width="12" />
@@ -59,30 +73,38 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sass" height="45" alt="Sass">
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="Bootstrap">
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=threejs" height="45" alt="ThreeJS">
 </p>
 
 ### ⚙️ Backend & Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="NodeJS">
+  <img src="https://skillicons.dev/icons?i=fastapi" height="45" alt="FastAPI">
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="45" alt="Express">
+  <img src="https://skillicons.dev/icons?i=spring" height="45" alt="Spring">
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=laravel" height="45" alt="Laravel">
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="45" alt="Spring">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="NodeJS">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="45" alt="NestJs">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="PostgreSQL">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="45" alt="Supabase">
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="MongoDB">
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL">
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="PostgreSQL">
+  <img src="https://skillicons.dev/icons?i=sqlite" height="45" alt="SQLite">
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="45" alt="Firebase">
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="45" alt="Supabase">
+  <img src="https://skillicons.dev/icons?i=redis" height="45" alt="Redis">
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=prisma" height="45" alt="Prisma">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="45" alt="Firebase">
 </p>
 
 ### ☁️ DevOps & Cloud
@@ -93,9 +115,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git">
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redhat" height="45" alt="Red Hat">
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub">
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="45" alt="Linux">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fedora" height="45" alt="Fedora">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redhat" height="45" alt="Red Hat">
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="45" alt="Vite">
   <img width="12" />
@@ -123,12 +149,7 @@
 <!-- GitHub Stats Section -->
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <a href="https://github.com/NoureddineDRIOUECH">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoureddineDRIOUECH&theme=dark&layout=compact&langs_count=8" alt="Top Languages">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=NoureddineDRIOUECH&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats">
-  </a>
-</p>
+
 
 <p align="center">
   <a href="https://github.com/NoureddineDRIOUECH">
@@ -136,11 +157,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/NoureddineDRIOUECH">
-    <img src="https://github-contributor-stats.vercel.app/api?username=NoureddineDRIOUECH&limit=3&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
-  </a>
-</p>
 
 <!-- Contribution Snake -->
 <p align="center">
@@ -151,13 +167,3 @@
   </picture>
 </p>
 
-<!-- Support Section -->
-## ☕ Support My Work
-
-<p align="center">
-  If you find my work valuable, consider supporting me:
-  <br><br>
- <a href="https://paypal.me/noureddinedr">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal">
-  </a>
-</p>
